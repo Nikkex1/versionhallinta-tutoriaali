@@ -30,3 +30,6 @@ aurinkokuivattu tomaatti
 mustikka
 herne
 kasvissuikale
+
+karkkia
+limua
