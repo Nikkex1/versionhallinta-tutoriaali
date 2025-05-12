@@ -34,8 +34,4 @@
  ja me jäätiin vetään viparisarjat loppuun. Illalla Raudo
  soitti ja sano et ne oli leikannu sen umpisuolen, kun se oli
  kuulenna puhjennu. Tästä on vielä lisää juttua, mut nyt pitää
-<<<<<<< Updated upstream
- lähtee ottaa Teston kaa penaa salille.
-=======
  lähtee ottaa Teston kaa penaa SALILLE.
->>>>>>> Stashed changes
